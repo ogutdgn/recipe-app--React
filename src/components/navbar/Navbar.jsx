@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
 import { Nav, Logo, Hamburger, MenuLink, Menu } from "./NavbarStyles";
 
 
